@@ -2,6 +2,8 @@
 
 Utility for replicating data to another DB.
 
+[![Latest Stable Version](https://poser.pugx.org/ebidtech/data-replicator/v/stable.png)](https://packagist.org/packages/ebidtech/data-replicator)
+
 ## Requirements ##
 
 * PHP >= 5.3
