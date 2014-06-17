@@ -1,17 +1,12 @@
 <?php
 
-/**
- * Replicators are classes responsible to copy complete entities from a database to another
- * They also use a control mechanism to guarantee that there's no concurrent and
- * inconsistent accesses to the replicated data
- * This is the Base class to be extended (with some common methods) by other replicators.
+/*
+ * This file is a part of the Data Replicator library.
  *
+ * (c) 2014 Ebidtech
  *
- * LICENSE: [EMAILBIDDING_DESCRIPTION_LICENSE_HERE]
- *
- * @author     Filipe Silva <filipe.silva@emailbidding.com>
- * @copyright  2012-2014 Emailbidding
- * @license    [EMAILBIDDING_URL_LICENSE_HERE]
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace EBT\DataReplicator;

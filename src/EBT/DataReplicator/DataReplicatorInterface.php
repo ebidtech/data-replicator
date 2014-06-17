@@ -1,11 +1,12 @@
 <?php
 
-/**
- * LICENSE: [EMAILBIDDING_DESCRIPTION_LICENSE_HERE]
+/*
+ * This file is a part of the Data Replicator library.
  *
- * @author     Filipe Silva <filipe.silva@emailbidding.com>
- * @copyright  2012-2014 Emailbidding
- * @license    [EMAILBIDDING_URL_LICENSE_HERE]
+ * (c) 2014 Ebidtech
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
  */
 
 namespace EBT\DataReplicator;
