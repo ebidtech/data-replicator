@@ -14,14 +14,14 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.3",
-        "doctrine/dbal": "2.4.2"
+        "doctrine/dbal": "~2.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.1.*",
-        "squizlabs/php_codesniffer": "1.5.*",
-        "phpmd/phpmd": "~1.5.0",
-        "satooshi/php-coveralls": "dev-master",
-        "jms/serializer": "0.14.0"
+        "phpunit/phpunit":           "~4.0",
+        "squizlabs/php_codesniffer": "~1.5.0",
+        "phpmd/phpmd":               "~1.5.0",
+        "satooshi/php-coveralls":    "~1.0",
+        "jms/serializer":            "0.14.0"
     },
     "autoload": {
         "psr-0": { "EBT\\DataReplicator": "src/" }
